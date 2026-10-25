@@ -1,0 +1,2 @@
+MD5 (citra_forensik_mock.dd) = 7aa36e60ed7773641d6e6027012d3849
+SHA256 (citra_forensik_mock.dd) = a_fake_sha256_hash_here_if_needed
